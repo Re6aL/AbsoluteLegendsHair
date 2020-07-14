@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>AbsoluteLegendsHair</identifier>
+    <version>1.0.0</version>
+    <dependencies>
+    </dependencies>
+    <incompatibleWith>
+    </incompatibleWith>
+    <loadBefore>
+    </loadBefore>
+    <loadAfter>
+    </loadAfter>
+    <suggests>
+        <li>AbsoluteLegendsGuns</li> <!--  -->
+        <li>AbsoluteLegendsGuns-CE</li>
+        <li>GlassDrumRifle-CE</li> <!--  -->
+    </suggests>
+    <showCrossPromotions>true</showCrossPromotions>
+    <manifestUri></manifestUri>
+    <downloadUri>https://github.com/re6al/AbsoluteLegendsHair/</downloadUri>
+</Manifest>
