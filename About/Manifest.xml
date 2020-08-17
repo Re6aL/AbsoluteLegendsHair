@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>AbsoluteLegendsHair</identifier>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <suggests>
-        <li>AbsoluteLegendsGuns</li> <!--  -->
+        <li>AbsoluteLegendsGuns</li>
         <li>AbsoluteLegendsGuns-CE</li>
-        <li>GlassDrumRifle-CE</li> <!--  -->
+        <li>AbsoluteLegendsRifles</li>
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
-    <manifestUri></manifestUri>
+    <manifestUri>https://raw.githubusercontent.com/Re6aL/AbsoluteLegendsHair/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/re6al/AbsoluteLegendsHair/</downloadUri>
 </Manifest>
