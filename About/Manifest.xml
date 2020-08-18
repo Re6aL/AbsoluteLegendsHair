@@ -3,9 +3,8 @@
     <identifier>AbsoluteLegendsHair</identifier>
     <version>1.0.1</version>
     <suggests>
-        <li>AbsoluteLegendsGuns</li>
-        <li>AbsoluteLegendsGuns-CE</li>
-        <li>AbsoluteLegendsRifles</li>
+        <li>2162631828</li> <!-- ALG -->
+        <li>2162632774</li> <!-- ALG CE -->
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Re6aL/AbsoluteLegendsHair/master/About/Manifest.xml</manifestUri>
