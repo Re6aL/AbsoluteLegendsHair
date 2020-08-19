@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
- 
-  <!-- Dan Orlov Hairstyle -->
-    
+
+  <!-- Dan Orlov ЯЕБАЛ Hairstylez -->
+
   <HairDef>
     <defName>AL_Hair_Bowl</defName>
     <label>[AL] Bowl</label>
@@ -13,7 +13,7 @@
 			<li>Rural</li>
 		</hairTags>
   </HairDef>
-  
+
   <HairDef>
     <defName>AL_Hair_Dj_Oguretz</defName>
     <label>[AL] Dj_Oguretz</label>
@@ -35,7 +35,7 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef>    
+  </HairDef>
 
   <HairDef>
     <defName>AL_Hair_Teacher</defName>
@@ -47,8 +47,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef>    
-  
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Mull</defName>
     <label>[AL] Mull</label>
@@ -59,7 +59,7 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef>    
+  </HairDef>
 
   <HairDef>
     <defName>AL_Hair_Emoboy</defName>
@@ -71,8 +71,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef>  
-  
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Slick</defName>
     <label>[AL] Slick</label>
@@ -83,7 +83,7 @@
 			<li>Rural</li>
 		</hairTags>
   </HairDef>
-    
+
   <HairDef>
     <defName>AL_Hair_Sport</defName>
     <label>[AL] Sport</label>
@@ -94,8 +94,8 @@
 			<li>Rural</li>
 			<li>Tribal</li>
 		</hairTags>
-  </HairDef>    
-    
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Samomul</defName>
     <label>[AL] Samomul</label>
@@ -106,7 +106,7 @@
 			<li>Rural</li>
 			<li>Tribal</li>
 		</hairTags>
-  </HairDef>    
+  </HairDef>
 
   <HairDef>
     <defName>AL_Chub</defName>
@@ -118,8 +118,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef> 
- 
+  </HairDef>
+
   <HairDef>
     <defName>AL_Noodle</defName>
     <label>[AL] Noodle</label>
@@ -130,11 +130,11 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef> 
-  
+  </HairDef>
+
   <HairDef>
     <defName>AL_Noodle_c</defName>
-    <label>[AL] Noodle_c</label>
+    <label>[AL] Noodle colored</label>
     <hairGender>Male</hairGender>
     <texPath>Hair/Noodle_c</texPath>
 		<hairTags>
@@ -142,8 +142,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef> 
- 
+  </HairDef>
+
   <HairDef>
     <defName>AL_Krusty</defName>
     <label>[AL] Krusty</label>
@@ -153,7 +153,7 @@
 			<li>Urban</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef> 
+  </HairDef>
 
   <HairDef>
     <defName>AL_Hair_Chub_b</defName>
@@ -165,8 +165,8 @@
 			<li>Rural</li>
 			<li>Tribal</li>
 		</hairTags>
-  </HairDef>    
-      
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Emin</defName>
     <label>[AL] Emin</label>
@@ -176,7 +176,7 @@
 			<li>Urban</li>
 			<li>Rural</li>
 		</hairTags>
-  </HairDef>    
+  </HairDef>
 
   <HairDef>
     <defName>AL_Hair_Chubil</defName>
@@ -188,8 +188,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef>   
-  
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Strange</defName>
     <label>[AL] Strange</label>
@@ -200,8 +200,8 @@
 			<li>Rural</li>
 			<li>Tribal</li>
 		</hairTags>
-  </HairDef>    
-      
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Tail</defName>
     <label>[AL] Tail</label>
@@ -212,8 +212,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef> 
-  
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Dragon</defName>
     <label>[AL] Dragon</label>
@@ -224,8 +224,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef> 
-  
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Mula</defName>
     <label>[AL] Mula</label>
@@ -236,8 +236,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef> 
-  
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Bum</defName>
     <label>[AL] Bum</label>
@@ -248,8 +248,8 @@
 			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
-  </HairDef> 
-  
+  </HairDef>
+
   <HairDef>
     <defName>AL_Hair_Nuclear</defName>
     <label>[AL] Nuclear</label>
@@ -261,7 +261,7 @@
 			<li>Rural</li>
 		</hairTags>
   </HairDef> 
-  
+
   <HairDef>
     <defName>AL_Hair_Nagiev</defName>
     <label>[AL] Nagiev</label>
@@ -272,7 +272,7 @@
 			<li>Rural</li>
   		</hairTags>
   </HairDef>
-  
+
   <HairDef>
     <defName>AL_Hair_Wokeup</defName>
     <label>[AL] Wokeup</label>
@@ -283,7 +283,7 @@
 			<li>Rural</li>
 		</hairTags>
   </HairDef>     
-  
+
   <HairDef>
     <defName>AL_Hair_Wokbrd</defName>
     <label>[AL] Wokbrd</label>
@@ -295,7 +295,7 @@
 			<li>Tribal</li>
   		</hairTags>
   </HairDef>
-  
+
   <HairDef>
     <defName>AL_Hair_Monobrow</defName>
     <label>[AL] Monobrow</label>
@@ -306,7 +306,7 @@
 			<li>Punk</li>
   		</hairTags>
   </HairDef>
-        
+
   <HairDef>
     <defName>AL_Hair_prodigy</defName>
     <label>[AL] Prodigy</label>
@@ -317,6 +317,42 @@
       <li>Rural</li>
       <li>Punk</li>
     </hairTags>
-  </HairDef> 
+  </HairDef>
+
+  <HairDef>
+    <defName>AL_Hair_Coolmullet</defName>
+    <label>[AL] Cool Stylish Mullet</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Dan/Coolmullet</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>Tribal</li>
+		</hairTags>
+  </HairDef>
+
+  <HairDef>
+    <defName>AL_Hair_TigerK</defName>
+    <label>[AL] Tiger King</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Tiger/TigerK</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+		</hairTags>
+  </HairDef>
+
+	<HairDef>
+		<defName>AL_Hair_Rebal</defName>
+			<label>[AL] Rebal</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hair/rebal/Rebal</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Punk</li>
+		</hairTags>
+	</HairDef>
 
 </Defs>
