@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>AbsoluteLegendsHair</identifier>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <suggests>
         <li>2162631828</li> <!-- ALG -->
         <li>2162632774</li> <!-- ALG CE -->
