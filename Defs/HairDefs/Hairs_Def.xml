@@ -158,12 +158,12 @@
   <HairDef>
     <defName>AL_Hair_Chub_b</defName>
     <label>[AL] Chub_b</label>
-    <hairGender>Any</hairGender>
+    <hairGender>Male</hairGender>
     <texPath>Hair/Chub_b</texPath>
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
-			<li>Tribal</li>
+			<li>Punk</li>
 		</hairTags>
   </HairDef>
 
@@ -211,6 +211,7 @@
 			<li>Urban</li>
 			<li>Rural</li>
 			<li>Punk</li>
+			<li>Tribal</li>
 		</hairTags>
   </HairDef>
 
