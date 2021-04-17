@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>AbsoluteLegendsHair</identifier>
-    <version>1.0.5</version>
+    <version>1.0.7</version>
     <suggests>
         <li>AbsoluteLegendsGuns</li> <!-- ALG -->
-        <li>AbsoluteLegendsGuns-CE</li> <!-- ALG CE -->
+        <li>Re6alCombatMachete</li> <!-- ALG CE -->
+        <li>AbsoluteLegendsApparel</li> <!-- not yet exist -->
+      	<li>AbsoluteLegendsRiflez</li> <!-- not yet exist -->
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Re6aL/AbsoluteLegendsHair/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/re6al/AbsoluteLegendsHair/</downloadUri>
+    <downloadUri>https://github.com/re6al/AbsoluteLegendsHair</downloadUri>
 </Manifest>
