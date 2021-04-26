@@ -356,4 +356,17 @@
 		</hairTags>
 	</HairDef>
 
+  <HairDef>
+    <defName>AL_Hair_Coolmullet</defName>
+    <label>[AL] JustFMSU</label>
+    <hairGender>Male</hairGender>
+    <texPath>Hair/Dan/fmsu/fmsu</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Punk</li>
+			<li>Tribal</li>
+		</hairTags>
+  </HairDef>
+
 </Defs>
