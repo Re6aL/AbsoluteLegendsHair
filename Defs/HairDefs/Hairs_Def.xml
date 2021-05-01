@@ -11,6 +11,7 @@
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
+			<li>Punk</li>
 		</hairTags>
   </HairDef>
 
@@ -81,6 +82,7 @@
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
+			<li>Punk</li>
 		</hairTags>
   </HairDef>
 
@@ -92,6 +94,7 @@
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
+			<li>Punk</li>
 			<li>Tribal</li>
 		</hairTags>
   </HairDef>
@@ -105,6 +108,7 @@
 			<li>Urban</li>
 			<li>Rural</li>
 			<li>Tribal</li>
+			<li>Punk</li>
 		</hairTags>
   </HairDef>
 
@@ -151,6 +155,7 @@
     <texPath>Hair/Krusty</texPath>
 		<hairTags>
 			<li>Urban</li>
+			<li>Rural</li>
 			<li>Punk</li>
 		</hairTags>
   </HairDef>
@@ -175,6 +180,7 @@
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
+			<li>Punk</li>
 		</hairTags>
   </HairDef>
 
@@ -271,6 +277,7 @@
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
+			<li>Punk</li>
   		</hairTags>
   </HairDef>
 
@@ -282,6 +289,7 @@
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
+			<li>Punk</li>
 		</hairTags>
   </HairDef>     
 
@@ -294,6 +302,7 @@
 			<li>Urban</li>
 			<li>Rural</li>
 			<li>Tribal</li>
+			<li>Punk</li>
   		</hairTags>
   </HairDef>
 
@@ -305,6 +314,8 @@
 		<hairTags>
 			<li>Rural</li>
 			<li>Punk</li>
+			<li>Urban</li>
+			<li>Tribal</li>
   		</hairTags>
   </HairDef>
 
@@ -313,11 +324,11 @@
     <label>[AL] Prodigy</label>
     <hairGender>Male</hairGender>
     <texPath>Hair/prodigy</texPath>
-    <hairTags>
-      <li>Urban</li>
-      <li>Rural</li>
-      <li>Punk</li>
-    </hairTags>
+    	<hairTags>
+      		<li>Urban</li>
+      		<li>Rural</li>
+      		<li>Punk</li>
+    	</hairTags>
   </HairDef>
 
   <HairDef>
@@ -357,15 +368,14 @@
 	</HairDef>
 
   <HairDef>
-    <defName>AL_Hair_Coolmullet</defName>
-    <label>[AL] JustFMSU</label>
+    <defName>AL_Hair_FMSU</defName>
+    <label>[AL] Just FMSU</label>
     <hairGender>Male</hairGender>
-    <texPath>Hair/Dan/fmsu/fmsu</texPath>
+    <texPath>Hair/Fmsu/Fmsu</texPath>
 		<hairTags>
 			<li>Urban</li>
 			<li>Rural</li>
 			<li>Punk</li>
-			<li>Tribal</li>
 		</hairTags>
   </HairDef>
 
