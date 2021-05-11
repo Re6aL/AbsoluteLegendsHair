@@ -368,7 +368,7 @@
 	</HairDef>
 
   <HairDef>
-    <defName>AL_Hair_jfmsu</defName>
+    <defName>AL_Hair_FMSU</defName>
     <label>[AL] Just FMSU</label>
     <hairGender>Male</hairGender>
     <texPath>Hair/jfmsu</texPath>
