@@ -368,18 +368,6 @@
 	</HairDef>
 
   <HairDef>
-    <defName>AL_Hair_FMSU</defName>
-    <label>[AL] Just FMSU</label>
-    <hairGender>Male</hairGender>
-    <texPath>Hair/Fmsu/Fmsu</texPath>
-		<hairTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Punk</li>
-		</hairTags>
-  </HairDef>
-
-  <HairDef>
     <defName>AL_Hair_jfmsu</defName>
     <label>[AL] Just FMSU</label>
     <hairGender>Male</hairGender>
