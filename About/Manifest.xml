@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>AbsoluteLegendsHair</identifier>
-    <version>1.0.85</version>
+    <version>1.0.87</version>
     <suggests>
         <li>AbsoluteLegendsGuns</li> <!-- ALG -->
         <li>Re6alCombatMachete</li> <!-- ALG CE -->
