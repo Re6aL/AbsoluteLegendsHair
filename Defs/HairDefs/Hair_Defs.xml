@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
-  <!-- Re6al Hairstylez -->
+  <!-- Re6al Hairstyles -->
 
   <HairDef>
     <defName>AL_Hair_Bowl</defName>
@@ -301,19 +301,6 @@
   </HairDef>     
 
   <HairDef>
-    <defName>AL_Hair_Wokbrd</defName>
-    <label>Woke beard</label>
-    <styleGender>Male</styleGender>
-    <texPath>Hair/Wokbrd</texPath>
-		<styleTags>
-			<li>Urban</li>
-			<li>Rural</li>
-			<li>Tribal</li>
-			<li>Punk</li>
-  		</styleTags>
-  </HairDef>
-
-  <HairDef>
     <defName>AL_Hair_Monobrow</defName>
     <label>Monobrow</label>
     <styleGender>Male</styleGender>
@@ -366,20 +353,9 @@
 		</styleTags>
   </HairDef>
 
-	<HairDef>
-		<defName>AL_Hair_Rebal</defName>
-			<label>Re6al</label>
-		<styleGender>Male</styleGender>
-		<texPath>Hair/rebal/Rebal</texPath>
-		<styleTags>
-			<li>Urban</li>
-			<li>Punk</li>
-		</styleTags>
-	</HairDef>
-
   <HairDef>
-    <defName>AL_Hair_FMSU</defName>
-    <label>Just FMSU!</label>
+    <defName>AL_Hair_JFMSU</defName>
+    <label>Just FMSU</label>
     <styleGender>Male</styleGender>
     <texPath>Hair/jfmsu</texPath>
 		<styleTags>
