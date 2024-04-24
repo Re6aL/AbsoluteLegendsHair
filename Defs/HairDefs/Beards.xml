@@ -23,4 +23,26 @@
 		</styleTags>
     </BeardDef>
 
+    <BeardDef>
+        <defName>ALH_Chaplin</defName>
+        <label>al_Chaplin</label>
+        <styleGender>Male</styleGender>
+        <texPath>Hair/Beards/Chaplin</texPath>
+        <styleTags>
+            <li>BeardPunk</li>
+            <li>BeardUrban</li>
+        </styleTags>
+    </BeardDef>
+
+    <BeardDef>
+        <defName>ALH_Twoway</defName>
+        <label>al_Twoway</label>
+        <styleGender>Male</styleGender>
+        <texPath>Hair/Beards/Twoway</texPath>
+        <styleTags>
+            <li>BeardPunk</li>
+            <li>BeardRural</li>
+        </styleTags>
+    </BeardDef>
+
 </Defs>
